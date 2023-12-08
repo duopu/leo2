@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bbc03476","path":"/pages/css/css01.html","title":"页面的标题 vv","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题 vv","description":"页面的描述css01.md222"},"headers":[],"git":{"updatedTime":1702005036000,"contributors":[{"name":"zheyikuai","email":"zheyikuai","commits":1}]},"filePathRelative":"pages/css/css01.md"}');export{e as data};
